@@ -1,8 +1,8 @@
-Ann Fredin - Technical Architect | Tech Lead 
-<br/>_<sub><sub><sub>(Microservices | Golang, C#, Node JS | Mongo DB, Redis, MySQL, PostgreSQL | Kafka, Scala, Spark | React, NextJS | Kubernetes, Docker | DevOps | Individual Contributor)</sub></sub></sub>_
-===================
-- - - - 
-Techical Architect with overall 10+ years of experience in end-to-end SDLC.
+# Ann Fredin - Technical Architect | Tech Lead 
+_<sup>(Microservices | Golang, C#, Node JS | Mongo DB, Redis, MySQL, PostgreSQL | Kafka, Scala, Spark | React, NextJS | Kubernetes, Docker | DevOps | Individual Contributor)</sup>_
+<hr/>
+
+Technical Architect with overall 10+ years of experience in end-to-end SDLC.
   *  Hands on experience in end to end applications development using cutting-edge technologies.
   *  Expertise in Microservice and API based IT solutions including Containerization, DevOps Transformation.
   *  Hands on experience in coding principle like SOLID, SoC, and Microservice and event driven principles, design patterns
